@@ -65,7 +65,7 @@ async function main() {
     prisma.menuItem.deleteMany(), prisma.restaurant.deleteMany(), prisma.category.deleteMany(),
     prisma.blogPost.deleteMany(), prisma.contactMessage.deleteMany(), prisma.newsletterSubscriber.deleteMany(),
     prisma.user.deleteMany(), prisma.image.deleteMany(),
-  ]);
+  ], { maxWait: 30_000, timeout: 120_000 }); // generous limits for remote databases
 
   // ---------- users ----------
   console.log("Creating users…");
