@@ -1,0 +1,21 @@
+import { Router } from "express";
+import adminRoutes from "./admin.routes.js";
+import authRoutes from "./auth.routes.js";
+import dashboardRoutes from "./dashboard.routes.js";
+import menuRoutes from "./menu.routes.js";
+import orderRoutes from "./orders.routes.js";
+import publicRoutes from "./public.routes.js";
+import restaurantRoutes from "./restaurants.routes.js";
+import userRoutes from "./users.routes.js";
+
+const router = Router();
+router.get("/health", (_req, res) => res.json({ success: true, data: { status: "ok", time: new Date().toISOString() } }));
+router.use("/auth", authRoutes);
+router.use("/users", userRoutes);
+router.use("/restaurants", restaurantRoutes);
+router.use("/menu-items", menuRoutes);
+router.use("/orders", orderRoutes);
+router.use("/admin", adminRoutes);
+router.use("/", publicRoutes);
+router.use("/", dashboardRoutes);
+export default router;

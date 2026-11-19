@@ -1,0 +1,22 @@
+import { Router } from "express";
+import * as blog from "../controllers/blog.controller.js";
+import { listCategories } from "../controllers/categories.controller.js";
+import * as contact from "../controllers/contact.controller.js";
+import { topReviews } from "../controllers/reviews.controller.js";
+import { publicStats } from "../controllers/stats.controller.js";
+import { getImage } from "../controllers/uploads.controller.js";
+import { formLimiter } from "../middleware/rateLimit.js";
+import { validate } from "../middleware/validate.js";
+import { idParam, slugParam } from "../validators/common.js";
+import { blogQuery, contactSchema, newsletterSchema } from "../validators/misc.schema.js";
+
+const router = Router();
+router.get("/categories", listCategories);
+router.get("/stats", publicStats);
+router.get("/reviews/top", topReviews);
+router.get("/blog", validate({ query: blogQuery }), blog.listPosts);
+router.get("/blog/:slug", validate({ params: slugParam }), blog.getPost);
+router.post("/contact", formLimiter, validate({ body: contactSchema }), contact.sendMessage);
+router.post("/newsletter", formLimiter, validate({ body: newsletterSchema }), contact.subscribe);
+router.get("/images/:id", validate({ params: idParam }), getImage);
+export default router;
