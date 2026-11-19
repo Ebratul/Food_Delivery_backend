@@ -1,0 +1,224 @@
+// FoodDash database schema (PostgreSQL via Prisma ORM)
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum Role {
+  USER
+  ADMIN
+}
+
+enum RestaurantStatus {
+  PENDING
+  APPROVED
+  REJECTED
+}
+
+enum OrderStatus {
+  PENDING
+  CONFIRMED
+  PREPARING
+  OUT_FOR_DELIVERY
+  DELIVERED
+  CANCELLED
+}
+
+enum PaymentMethod {
+  CASH_ON_DELIVERY
+  CARD
+  MOBILE_WALLET
+}
+
+enum MessageStatus {
+  NEW
+  READ
+  RESOLVED
+}
+
+model User {
+  id           String   @id @default(cuid())
+  name         String
+  email        String   @unique
+  passwordHash String
+  role         Role     @default(USER)
+  phone        String?
+  address      String?
+  city         String?
+  bio          String?
+  avatarId     String?  @unique
+  avatar       Image?   @relation("UserAvatar", fields: [avatarId], references: [id], onDelete: SetNull)
+  isActive     Boolean  @default(true)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  restaurants Restaurant[]
+  orders      Order[]
+  reviews     Review[]
+  posts       BlogPost[]
+  uploads     Image[]      @relation("ImageOwner")
+}
+
+/// Uploaded images are stored in the database (resized WebP) so the API stays stateless on serverless hosting.
+model Image {
+  id        String   @id @default(cuid())
+  mimeType  String
+  data      Bytes
+  width     Int
+  height    Int
+  size      Int
+  ownerId   String?
+  owner     User?    @relation("ImageOwner", fields: [ownerId], references: [id], onDelete: SetNull)
+  createdAt DateTime @default(now())
+
+  avatarOf User? @relation("UserAvatar")
+}
+
+model Category {
+  id          String       @id @default(cuid())
+  name        String       @unique
+  slug        String       @unique
+  description String
+  image       String
+  createdAt   DateTime     @default(now())
+  restaurants Restaurant[]
+}
+
+model Restaurant {
+  id              String           @id @default(cuid())
+  name            String
+  slug            String           @unique
+  tagline         String
+  description     String
+  images          String[]
+  city            String
+  area            String
+  address         String
+  phone           String
+  openingHours    String
+  priceLevel      Int              @default(2) /// 1 = budget, 2 = moderate, 3 = premium
+  avgMealPrice    Int /// average price of a main dish in BDT
+  deliveryFee     Int
+  minOrder        Int
+  deliveryTimeMin Int
+  deliveryTimeMax Int
+  isVeganFriendly Boolean          @default(false)
+  rating          Float            @default(0)
+  reviewCount     Int              @default(0)
+  status          RestaurantStatus @default(PENDING)
+  isFeatured      Boolean          @default(false)
+  categoryId      String
+  category        Category         @relation(fields: [categoryId], references: [id])
+  ownerId         String
+  owner           User             @relation(fields: [ownerId], references: [id], onDelete: Cascade)
+  createdAt       DateTime         @default(now())
+  updatedAt       DateTime         @updatedAt
+
+  menuItems MenuItem[]
+  orders    Order[]
+  reviews   Review[]
+
+  @@index([status, categoryId])
+  @@index([city])
+  @@index([rating])
+}
+
+model MenuItem {
+  id           String      @id @default(cuid())
+  name         String
+  description  String
+  price        Int
+  image        String
+  section      String /// e.g. "Mains", "Starters", "Desserts"
+  isAvailable  Boolean     @default(true)
+  isPopular    Boolean     @default(false)
+  restaurantId String
+  restaurant   Restaurant  @relation(fields: [restaurantId], references: [id], onDelete: Cascade)
+  createdAt    DateTime    @default(now())
+  orderItems   OrderItem[]
+
+  @@index([restaurantId])
+}
+
+model Order {
+  id              String        @id @default(cuid())
+  orderNumber     String        @unique
+  status          OrderStatus   @default(PENDING)
+  paymentMethod   PaymentMethod @default(CASH_ON_DELIVERY)
+  subtotal        Int
+  deliveryFee     Int
+  total           Int
+  deliveryAddress String
+  phone           String
+  note            String?
+  userId          String
+  user            User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+  restaurantId    String
+  restaurant      Restaurant    @relation(fields: [restaurantId], references: [id], onDelete: Cascade)
+  items           OrderItem[]
+  createdAt       DateTime      @default(now())
+  updatedAt       DateTime      @updatedAt
+
+  @@index([userId, createdAt])
+  @@index([restaurantId, status])
+}
+
+model OrderItem {
+  id         String    @id @default(cuid())
+  orderId    String
+  order      Order     @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  menuItemId String?
+  menuItem   MenuItem? @relation(fields: [menuItemId], references: [id], onDelete: SetNull)
+  name       String /// snapshot of the dish name at order time
+  unitPrice  Int /// snapshot of the price at order time
+  quantity   Int
+  lineTotal  Int
+}
+
+model Review {
+  id           String     @id @default(cuid())
+  rating       Int
+  comment      String
+  userId       String
+  user         User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+  restaurantId String
+  restaurant   Restaurant @relation(fields: [restaurantId], references: [id], onDelete: Cascade)
+  createdAt    DateTime   @default(now())
+
+  @@unique([userId, restaurantId])
+  @@index([restaurantId, createdAt])
+}
+
+model BlogPost {
+  id          String   @id @default(cuid())
+  title       String
+  slug        String   @unique
+  excerpt     String
+  content     String
+  coverImage  String
+  tags        String[]
+  readMinutes Int
+  authorId    String
+  author      User     @relation(fields: [authorId], references: [id], onDelete: Cascade)
+  publishedAt DateTime @default(now())
+}
+
+model ContactMessage {
+  id        String        @id @default(cuid())
+  name      String
+  email     String
+  subject   String
+  message   String
+  status    MessageStatus @default(NEW)
+  createdAt DateTime      @default(now())
+}
+
+model NewsletterSubscriber {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  createdAt DateTime @default(now())
+}
