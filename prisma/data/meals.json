@@ -1,0 +1,2203 @@
+{
+  "Indian": [
+    {
+      "name": "Baingan Bharta",
+      "category": "Vegetarian",
+      "image": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+      "ingredients": [
+        "aubergine",
+        "onion",
+        "tomatoes",
+        "garlic",
+        "green chilli",
+        "red chilli powder",
+        "oil",
+        "coriander leaves",
+        "salt"
+      ]
+    },
+    {
+      "name": "Beef Mandi",
+      "category": "Beef",
+      "image": "https://www.themealdb.com/images/media/meals/1nalo51765188375.jpg",
+      "ingredients": [
+        "basmati rice",
+        "beef stock",
+        "onion",
+        "garlic",
+        "green chilli",
+        "tomato",
+        "salt",
+        "oil",
+        "turmeric powder",
+        "cardamom",
+        "cloves",
+        "bay leaf"
+      ]
+    },
+    {
+      "name": "Biss Jaggery Modak",
+      "category": "Dessert",
+      "image": "https://www.themealdb.com/images/media/meals/gl92ih1789802951.jpg",
+      "ingredients": [
+        "coconut flakes",
+        "brown sugar",
+        "dried fruit"
+      ]
+    },
+    {
+      "name": "Bread omelette",
+      "category": "Breakfast",
+      "image": "https://www.themealdb.com/images/media/meals/hqaejl1695738653.jpg",
+      "ingredients": [
+        "bread",
+        "egg",
+        "salt"
+      ]
+    },
+    {
+      "name": "Chicken Handi",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+      "ingredients": [
+        "chicken",
+        "onion",
+        "tomatoes",
+        "garlic",
+        "ginger paste",
+        "vegetable oil",
+        "cumin seeds",
+        "coriander seeds",
+        "turmeric powder",
+        "chilli powder",
+        "green chilli",
+        "yogurt",
+        "cream",
+        "fenugreek",
+        "garam masala",
+        "salt"
+      ]
+    },
+    {
+      "name": "Chicken Mandi",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/er4d081765186828.jpg",
+      "ingredients": [
+        "chicken",
+        "basmati rice",
+        "water",
+        "onion",
+        "garlic",
+        "green chilli",
+        "salt",
+        "oil",
+        "turmeric powder",
+        "coriander",
+        "cardamom",
+        "cloves",
+        "cinnamon",
+        "pepper",
+        "bay leaf"
+      ]
+    },
+    {
+      "name": "Dal fry",
+      "category": "Vegetarian",
+      "image": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+      "ingredients": [
+        "toor dal",
+        "water",
+        "salt",
+        "turmeric",
+        "ghee",
+        "chopped tomatoes",
+        "cumin seeds",
+        "mustard seeds",
+        "bay leaf",
+        "green chilli",
+        "ginger",
+        "cilantro",
+        "red pepper",
+        "salt",
+        "sugar",
+        "garam masala"
+      ]
+    },
+    {
+      "name": "Kidney Bean Curry",
+      "category": "Vegetarian",
+      "image": "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg",
+      "ingredients": [
+        "vegetable oil",
+        "onion",
+        "garlic",
+        "ginger",
+        "coriander",
+        "cumin",
+        "paprika",
+        "garam masala",
+        "chopped tomatoes",
+        "kidney beans",
+        "basmati rice"
+      ]
+    },
+    {
+      "name": "Lamb Biryani",
+      "category": "Lamb",
+      "image": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg",
+      "ingredients": [
+        "cashew nuts",
+        "khus khus",
+        "cumin seeds",
+        "onions",
+        "ginger garlic paste",
+        "garlic",
+        "mint",
+        "cilantro",
+        "saffron",
+        "ghee",
+        "basmati rice",
+        "full fat yogurt",
+        "cumin seeds",
+        "bay leaf",
+        "cinnamon",
+        "cloves",
+        "cardamom",
+        "lamb",
+        "red chilli powder",
+        "biryani masala"
+      ]
+    },
+    {
+      "name": "Lamb Rogan josh",
+      "category": "Lamb",
+      "image": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg",
+      "ingredients": [
+        "onion",
+        "sunflower oil",
+        "garlic",
+        "ginger",
+        "madras paste",
+        "paprika",
+        "cinnamon stick",
+        "cardamom",
+        "cloves",
+        "bay leaf",
+        "tomato purée",
+        "lamb",
+        "greek yogurt",
+        "coriander"
+      ]
+    },
+    {
+      "name": "Matar Paneer",
+      "category": "Vegetarian",
+      "image": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
+      "ingredients": [
+        "sunflower oil",
+        "paneer",
+        "ginger",
+        "cumin",
+        "turmeric",
+        "coriander",
+        "green chilli",
+        "tomato",
+        "peas",
+        "garam masala",
+        "coriander",
+        "naan bread"
+      ]
+    },
+    {
+      "name": "Nutty Chicken Curry",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/yxsurp1511304301.jpg",
+      "ingredients": [
+        "red chilli",
+        "ginger",
+        "garlic",
+        "coriander",
+        "sunflower oil",
+        "chicken breasts",
+        "peanut butter",
+        "chicken stock",
+        "greek yogurt"
+      ]
+    },
+    {
+      "name": "Recheado Masala Fish",
+      "category": "Seafood",
+      "image": "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg",
+      "ingredients": [
+        "mackerel",
+        "red chilli",
+        "ginger",
+        "garlic",
+        "pepper",
+        "cumin",
+        "turmeric",
+        "cinnamon stick",
+        "cloves",
+        "cardamom",
+        "sugar",
+        "tamarind ball",
+        "vinegar",
+        "oil"
+      ]
+    },
+    {
+      "name": "Smoked Haddock Kedgeree",
+      "category": "Breakfast",
+      "image": "https://www.themealdb.com/images/media/meals/1550441275.jpg",
+      "ingredients": [
+        "butter",
+        "onion",
+        "cardamom",
+        "turmeric",
+        "cinnamon stick",
+        "bay leaf",
+        "basmati rice",
+        "chicken stock",
+        "smoked haddock",
+        "eggs",
+        "parsley",
+        "lemon"
+      ]
+    },
+    {
+      "name": "Tandoori chicken",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg",
+      "ingredients": [
+        "lemons",
+        "paprika",
+        "red onions",
+        "chicken thighs",
+        "vegetable oil",
+        "greek yogurt",
+        "ginger",
+        "garlic clove",
+        "garam masala",
+        "ground cumin",
+        "chilli powder",
+        "turmeric"
+      ]
+    }
+  ],
+  "Italian": [
+    {
+      "name": "Budino Di Ricotta",
+      "category": "Dessert",
+      "image": "https://www.themealdb.com/images/media/meals/1549542877.jpg",
+      "ingredients": [
+        "ricotta",
+        "eggs",
+        "flour",
+        "sugar",
+        "cinnamon",
+        "lemons",
+        "dark rum",
+        "icing sugar"
+      ]
+    },
+    {
+      "name": "Chicken Alfredo Primavera",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg",
+      "ingredients": [
+        "butter",
+        "olive oil",
+        "chicken",
+        "salt",
+        "squash",
+        "broccoli",
+        "mushrooms",
+        "pepper",
+        "onion",
+        "garlic",
+        "red pepper flakes",
+        "white wine",
+        "milk",
+        "heavy cream",
+        "parmesan cheese",
+        "bowtie pasta",
+        "salt",
+        "pepper",
+        "parsley"
+      ]
+    },
+    {
+      "name": "Chilli prawn linguine",
+      "category": "Pasta",
+      "image": "https://www.themealdb.com/images/media/meals/usywpp1511189717.jpg",
+      "ingredients": [
+        "linguine pasta",
+        "sugar snap peas",
+        "olive oil",
+        "garlic clove",
+        "red chilli",
+        "king prawns",
+        "cherry tomatoes",
+        "basil leaves",
+        "lettuce",
+        "bread",
+        "fromage frais",
+        "lime",
+        "caster sugar"
+      ]
+    },
+    {
+      "name": "Fettuccine Alfredo",
+      "category": "Pasta",
+      "image": "https://www.themealdb.com/images/media/meals/0jv5gx1661040802.jpg",
+      "ingredients": [
+        "fettuccine",
+        "heavy cream",
+        "butter",
+        "parmesan",
+        "parsley",
+        "black pepper"
+      ]
+    },
+    {
+      "name": "Fettucine alfredo",
+      "category": "Pasta",
+      "image": "https://www.themealdb.com/images/media/meals/uquqtu1511178042.jpg",
+      "ingredients": [
+        "clotted cream",
+        "butter",
+        "corn flour",
+        "parmesan cheese",
+        "nutmeg",
+        "fettuccine",
+        "parsley"
+      ]
+    },
+    {
+      "name": "Lasagne",
+      "category": "Pasta",
+      "image": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+      "ingredients": [
+        "olive oil",
+        "bacon",
+        "onion",
+        "celery",
+        "carrots",
+        "garlic",
+        "minced beef",
+        "tomato puree",
+        "chopped tomatoes",
+        "honey",
+        "lasagne sheets",
+        "creme fraiche",
+        "mozzarella balls",
+        "parmesan cheese",
+        "basil leaves"
+      ]
+    },
+    {
+      "name": "Mediterranean Pasta Salad",
+      "category": "Seafood",
+      "image": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+      "ingredients": [
+        "mozzarella balls",
+        "baby plum tomatoes",
+        "fresh basil",
+        "farfalle",
+        "extra virgin olive oil",
+        "green olives",
+        "tuna",
+        "salt",
+        "pepper"
+      ]
+    },
+    {
+      "name": "Osso Buco alla Milanese",
+      "category": "Miscellaneous",
+      "image": "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg",
+      "ingredients": [
+        "veal",
+        "flour",
+        "olive oil",
+        "butter",
+        "onion",
+        "carrots",
+        "celery",
+        "fennel",
+        "garlic",
+        "orange zest",
+        "marjoram",
+        "bay leaf",
+        "dry white wine",
+        "chicken stock",
+        "tomatoes",
+        "parsley",
+        "garlic",
+        "lemon zest"
+      ]
+    },
+    {
+      "name": "Pilchard puttanesca",
+      "category": "Pasta",
+      "image": "https://www.themealdb.com/images/media/meals/vvtvtr1511180578.jpg",
+      "ingredients": [
+        "spaghetti",
+        "olive oil",
+        "onion",
+        "garlic",
+        "red chilli",
+        "tomato puree",
+        "pilchards",
+        "black olives",
+        "parmesan"
+      ]
+    },
+    {
+      "name": "Pizza Express Margherita",
+      "category": "Miscellaneous",
+      "image": "https://www.themealdb.com/images/media/meals/x0lk931587671540.jpg",
+      "ingredients": [
+        "water",
+        "sugar",
+        "yeast",
+        "plain flour",
+        "salt",
+        "olive oil",
+        "passata",
+        "mozzarella",
+        "oregano",
+        "basil",
+        "black pepper"
+      ]
+    },
+    {
+      "name": "Potato Gratin with Chicken",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg",
+      "ingredients": [
+        "potatoes",
+        "onions",
+        "olive oil",
+        "chicken stock",
+        "creme fraiche",
+        "parmesan",
+        "chicken breasts",
+        "bacon",
+        "spinach",
+        "peas"
+      ]
+    },
+    {
+      "name": "Ribollita",
+      "category": "Vegetarian",
+      "image": "https://www.themealdb.com/images/media/meals/xrrwpx1487347049.jpg",
+      "ingredients": [
+        "olive oil",
+        "onion",
+        "carrots",
+        "celery",
+        "garlic",
+        "cannellini beans",
+        "canned tomatoes",
+        "water",
+        "rosemary",
+        "thyme",
+        "kale",
+        "wholegrain bread",
+        "red onions",
+        "parmesan"
+      ]
+    },
+    {
+      "name": "Rigatoni with fennel sausage sauce",
+      "category": "Lamb",
+      "image": "https://www.themealdb.com/images/media/meals/qtqvys1468573168.jpg",
+      "ingredients": [
+        "olive oil",
+        "italian fennel sausages",
+        "onion",
+        "fennel bulb",
+        "smoky paprika",
+        "garlic",
+        "fennel seeds",
+        "red wine",
+        "chopped tomatoes",
+        "caster sugar",
+        "pitted black olives",
+        "rigatoni",
+        "pecorino",
+        "anchovy fillet",
+        "garlic",
+        "olive oil",
+        "basil leaves"
+      ]
+    },
+    {
+      "name": "Salmon Prawn Risotto",
+      "category": "Seafood",
+      "image": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg",
+      "ingredients": [
+        "butter",
+        "onion",
+        "rice",
+        "white wine",
+        "vegetable stock",
+        "lemon",
+        "king prawns",
+        "salmon",
+        "asparagus",
+        "black pepper",
+        "parmesan"
+      ]
+    },
+    {
+      "name": "Spaghetti alla Carbonara",
+      "category": "Pasta",
+      "image": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+      "ingredients": [
+        "spaghetti",
+        "egg yolks",
+        "salt",
+        "bacon",
+        "pecorino",
+        "black pepper"
+      ]
+    },
+    {
+      "name": "Spaghetti Bolognese",
+      "category": "Beef",
+      "image": "https://www.themealdb.com/images/media/meals/sutysw1468247559.jpg",
+      "ingredients": [
+        "onions",
+        "olive oil",
+        "garlic",
+        "lean minced beef",
+        "mushrooms",
+        "dried oregano",
+        "tomatoes",
+        "hot beef stock",
+        "tomato puree",
+        "worcestershire sauce",
+        "spaghetti",
+        "parmesan"
+      ]
+    }
+  ],
+  "Chinese": [
+    {
+      "name": "Air Fryer Egg Rolls",
+      "category": "Side",
+      "image": "https://www.themealdb.com/images/media/meals/grhn401765687086.jpg",
+      "ingredients": [
+        "olive oil",
+        "ground pork",
+        "garlic",
+        "ginger",
+        "carrots",
+        "scallions",
+        "cabbage",
+        "soy sauce",
+        "rice vinegar",
+        "egg roll wrappers",
+        "oil",
+        "duck sauce",
+        "plum sauce",
+        "soy sauce"
+      ]
+    },
+    {
+      "name": "Beef and Broccoli Stir-Fry",
+      "category": "Beef",
+      "image": "https://www.themealdb.com/images/media/meals/m0p0j81765568742.jpg",
+      "ingredients": [
+        "soy sauce",
+        "dry sherry",
+        "cornstarch",
+        "black pepper",
+        "sirloin steak",
+        "oyster sauce",
+        "dry sherry",
+        "soy sauce",
+        "chicken stock",
+        "broccoli",
+        "high heat cooking oil",
+        "garlic",
+        "cornstarch",
+        "water"
+      ]
+    },
+    {
+      "name": "Beef Lo Mein",
+      "category": "Beef",
+      "image": "https://www.themealdb.com/images/media/meals/1529444830.jpg",
+      "ingredients": [
+        "beef",
+        "salt",
+        "pepper",
+        "sesame seed oil",
+        "egg",
+        "starch",
+        "oil",
+        "noodles",
+        "onion",
+        "minced garlic",
+        "ginger",
+        "bean sprouts",
+        "mushrooms",
+        "water",
+        "oyster sauce",
+        "sugar",
+        "soy sauce"
+      ]
+    },
+    {
+      "name": "Chicken Congee",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/1529446352.jpg",
+      "ingredients": [
+        "chicken",
+        "salt",
+        "pepper",
+        "ginger cordial",
+        "ginger",
+        "spring onions",
+        "rice",
+        "water",
+        "coriander"
+      ]
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/wuyd2h1765655837.jpg",
+      "ingredients": [
+        "chicken thighs",
+        "salt",
+        "canola oil",
+        "egg",
+        "onion",
+        "garlic",
+        "ground ginger",
+        "carrots",
+        "peas",
+        "jasmine rice",
+        "scallions",
+        "chinese five spice powder",
+        "soy sauce",
+        "sesame seed oil"
+      ]
+    },
+    {
+      "name": "Chinese Orange Chicken",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/s73ytv1765567838.jpg",
+      "ingredients": [
+        "orange",
+        "orange juice",
+        "soy sauce",
+        "water",
+        "rice vinegar",
+        "cornstarch",
+        "sesame seed oil",
+        "sugar",
+        "chicken thighs",
+        "egg",
+        "salt",
+        "black pepper",
+        "cornstarch",
+        "all purpose flour",
+        "vegetable oil",
+        "garlic",
+        "shallots",
+        "scallions",
+        "sesame seed",
+        "rice"
+      ]
+    },
+    {
+      "name": "Chinese Tomato Egg Stir Fry",
+      "category": "Vegetarian",
+      "image": "https://www.themealdb.com/images/media/meals/rwvw8q1765660071.jpg",
+      "ingredients": [
+        "plum tomatoes",
+        "vegetable oil",
+        "eggs",
+        "sesame seed oil",
+        "chicken bouillon powder",
+        "sugar",
+        "pepper",
+        "salt",
+        "spring onions",
+        "jasmine rice"
+      ]
+    },
+    {
+      "name": "Egg Drop Soup",
+      "category": "Vegetarian",
+      "image": "https://www.themealdb.com/images/media/meals/1529446137.jpg",
+      "ingredients": [
+        "chicken stock",
+        "salt",
+        "sugar",
+        "pepper",
+        "sesame seed oil",
+        "peas",
+        "mushrooms",
+        "cornstarch",
+        "water",
+        "spring onions"
+      ]
+    },
+    {
+      "name": "Egg Foo Young",
+      "category": "Seafood",
+      "image": "https://www.themealdb.com/images/media/meals/47y6ii1765658818.jpg",
+      "ingredients": [
+        "unsalted beef stock",
+        "soy sauce",
+        "shaoxing wine",
+        "oyster sauce",
+        "pepper",
+        "cornstarch",
+        "water",
+        "cornstarch",
+        "water",
+        "egg",
+        "kosher salt",
+        "sugar",
+        "spring onions",
+        "mung bean sprouts",
+        "shrimp",
+        "vegetable oil",
+        "jasmine rice"
+      ]
+    },
+    {
+      "name": "General Tsos Chicken",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/1529444113.jpg",
+      "ingredients": [
+        "chicken breast",
+        "plain flour",
+        "egg",
+        "starch",
+        "baking powder",
+        "salt",
+        "onion salt",
+        "garlic powder",
+        "water",
+        "chicken stock",
+        "duck sauce",
+        "soy sauce",
+        "honey",
+        "rice vinegar",
+        "sesame seed oil",
+        "gochujang",
+        "starch",
+        "garlic",
+        "spring onions",
+        "ginger"
+      ]
+    },
+    {
+      "name": "Hot and Sour Soup",
+      "category": "Pork",
+      "image": "https://www.themealdb.com/images/media/meals/1529445893.jpg",
+      "ingredients": [
+        "mushrooms",
+        "wood ear mushrooms",
+        "tofu",
+        "pork",
+        "chicken stock",
+        "salt",
+        "sugar",
+        "sesame seed oil",
+        "pepper",
+        "hotsauce",
+        "vinegar",
+        "soy sauce",
+        "cornstarch",
+        "water",
+        "spring onions"
+      ]
+    },
+    {
+      "name": "Kung Pao Chicken",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+      "ingredients": [
+        "sake",
+        "soy sauce",
+        "sesame seed oil",
+        "corn flour",
+        "water",
+        "chicken",
+        "chilli powder",
+        "rice vinegar",
+        "brown sugar",
+        "spring onions",
+        "garlic clove",
+        "water chestnut",
+        "peanuts"
+      ]
+    },
+    {
+      "name": "Kung Po Prawns",
+      "category": "Seafood",
+      "image": "https://www.themealdb.com/images/media/meals/1525873040.jpg",
+      "ingredients": [
+        "prawns",
+        "soy sauce",
+        "tomato puree",
+        "corn flour",
+        "caster sugar",
+        "sunflower oil",
+        "peanuts",
+        "chilli",
+        "brown sugar",
+        "garlic clove",
+        "water chestnut",
+        "ginger"
+      ]
+    },
+    {
+      "name": "Ma Po Tofu",
+      "category": "Beef",
+      "image": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+      "ingredients": [
+        "tofu",
+        "minced beef",
+        "sesame seed oil",
+        "doubanjiang",
+        "fermented black beans",
+        "pepper",
+        "salt",
+        "sichuan pepper",
+        "soy sauce",
+        "water",
+        "olive oil",
+        "scallions",
+        "spring onions",
+        "garlic",
+        "ginger",
+        "water",
+        "cornstarch"
+      ]
+    },
+    {
+      "name": "Napa Cabbage with Dried Shrimp",
+      "category": "Seafood",
+      "image": "https://www.themealdb.com/images/media/meals/9nh4dl1766435484.jpg",
+      "ingredients": [
+        "dried shrimp",
+        "boiling water",
+        "napa cabbage",
+        "peanut oil",
+        "scallions",
+        "ginger",
+        "soy sauce",
+        "water",
+        "cornstarch",
+        "kosher salt",
+        "pepper"
+      ]
+    },
+    {
+      "name": "Ramen Noodles with Boiled Egg",
+      "category": "Miscellaneous",
+      "image": "https://www.themealdb.com/images/media/meals/ip5xtp1769779958.jpg",
+      "ingredients": [
+        "noodles",
+        "water",
+        "egg",
+        "soy sauce",
+        "chilli sauce",
+        "spring onions",
+        "salt",
+        "pepper"
+      ]
+    }
+  ],
+  "Japanese": [
+    {
+      "name": "Chicken Karaage",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg",
+      "ingredients": [
+        "chicken",
+        "ginger",
+        "garlic",
+        "soy sauce",
+        "sake",
+        "granulated sugar",
+        "potato starch",
+        "vegetable oil",
+        "lemon"
+      ]
+    },
+    {
+      "name": "Honey Teriyaki Salmon",
+      "category": "Seafood",
+      "image": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg",
+      "ingredients": [
+        "salmon",
+        "olive oil",
+        "soy sauce",
+        "sake",
+        "sesame seed"
+      ]
+    },
+    {
+      "name": "Japanese gohan rice",
+      "category": "Side",
+      "image": "https://www.themealdb.com/images/media/meals/kw92t41604181871.jpg",
+      "ingredients": [
+        "sushi rice",
+        "mirin",
+        "pickle juice",
+        "spring onions"
+      ]
+    },
+    {
+      "name": "Japanese Katsudon",
+      "category": "Pork",
+      "image": "https://www.themealdb.com/images/media/meals/d8f6qx1604182128.jpg",
+      "ingredients": [
+        "vegetable oil",
+        "onion",
+        "pork",
+        "vegetable stock",
+        "soy sauce",
+        "mirin",
+        "sugar",
+        "eggs",
+        "sushi rice",
+        "chives"
+      ]
+    },
+    {
+      "name": "Katsu Chicken curry",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg",
+      "ingredients": [
+        "chicken breast",
+        "plain flour",
+        "egg",
+        "breadcrumbs",
+        "vegetable oil",
+        "sunflower oil",
+        "onions",
+        "garlic",
+        "carrot",
+        "plain flour",
+        "curry powder",
+        "chicken stock",
+        "honey",
+        "soy sauce",
+        "bay leaf",
+        "garam masala"
+      ]
+    },
+    {
+      "name": "Sushi",
+      "category": "Seafood",
+      "image": "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg",
+      "ingredients": [
+        "sushi rice",
+        "rice wine",
+        "caster sugar",
+        "mayonnaise",
+        "rice wine",
+        "soy sauce",
+        "cucumber"
+      ]
+    },
+    {
+      "name": "Teriyaki Chicken Casserole",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+      "ingredients": [
+        "soy sauce",
+        "water",
+        "brown sugar",
+        "ground ginger",
+        "minced garlic",
+        "cornstarch",
+        "chicken breasts",
+        "stir-fry vegetables",
+        "brown rice"
+      ]
+    },
+    {
+      "name": "Tonkatsu pork",
+      "category": "Pork",
+      "image": "https://www.themealdb.com/images/media/meals/lwsnkl1604181187.jpg",
+      "ingredients": [
+        "pork chops",
+        "flour",
+        "eggs",
+        "breadcrumbs",
+        "vegetable oil",
+        "tomato ketchup",
+        "worcestershire sauce",
+        "oyster sauce",
+        "caster sugar"
+      ]
+    },
+    {
+      "name": "Yaki Udon",
+      "category": "Vegetarian",
+      "image": "https://www.themealdb.com/images/media/meals/wrustq1511475474.jpg",
+      "ingredients": [
+        "udon noodles",
+        "sesame seed oil",
+        "onion",
+        "cabbage",
+        "shiitake mushrooms",
+        "spring onions",
+        "mirin",
+        "soy sauce",
+        "caster sugar",
+        "worcestershire sauce"
+      ]
+    }
+  ],
+  "Thai": [
+    {
+      "name": "Drunken noodles (pad kee mao)",
+      "category": "Beef",
+      "image": "https://www.themealdb.com/images/media/meals/2wx8cm1763373419.jpg",
+      "ingredients": [
+        "flat rice noodles",
+        "vegetable oil",
+        "garlic",
+        "birds-eye chillies",
+        "sirloin steak",
+        "broccoli",
+        "basil leaves",
+        "soy sauce",
+        "oyster sauce",
+        "fish sauce",
+        "sugar"
+      ]
+    },
+    {
+      "name": "Lemongrass beef stew with noodles",
+      "category": "Beef",
+      "image": "https://www.themealdb.com/images/media/meals/ntafxw1763586291.jpg",
+      "ingredients": [
+        "ginger",
+        "garlic clove",
+        "lemongrass stalks",
+        "coriander leaves",
+        "red chilli",
+        "vegetable oil",
+        "beef",
+        "soy sauce",
+        "five spice powder",
+        "brown sugar",
+        "beef stock",
+        "rice noodles",
+        "lime"
+      ]
+    },
+    {
+      "name": "Massaman Beef curry",
+      "category": "Beef",
+      "image": "https://www.themealdb.com/images/media/meals/tvttqv1504640475.jpg",
+      "ingredients": [
+        "peanuts",
+        "coconut cream",
+        "massaman curry paste",
+        "beef",
+        "potatoes",
+        "onion",
+        "lime",
+        "cinnamon stick",
+        "tamarind paste",
+        "brown sugar",
+        "fish sauce",
+        "chilli",
+        "jasmine rice"
+      ]
+    },
+    {
+      "name": "Pad See Ew",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+      "ingredients": [
+        "rice stick noodles",
+        "dark soy sauce",
+        "oyster sauce",
+        "soy sauce",
+        "white vinegar",
+        "sugar",
+        "water",
+        "peanut oil",
+        "garlic",
+        "chicken",
+        "egg",
+        "chinese broccoli"
+      ]
+    },
+    {
+      "name": "Pad Thai",
+      "category": "Seafood",
+      "image": "https://www.themealdb.com/images/media/meals/rg9ze01763479093.jpg",
+      "ingredients": [
+        "rice noodles",
+        "lime",
+        "cayenne pepper",
+        "muscovado sugar",
+        "fish sauce",
+        "vegetable oil",
+        "tiger prawns",
+        "spring onions",
+        "bean sprouts",
+        "peanuts",
+        "coriander",
+        "lime",
+        "sweet chilli sauce"
+      ]
+    },
+    {
+      "name": "Panang chicken curry (kaeng panang gai)",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/0dhtwr1763371444.jpg",
+      "ingredients": [
+        "coconut milk",
+        "panang curry paste",
+        "chicken breast",
+        "green beans",
+        "fish sauce",
+        "brown sugar",
+        "makrut lime leaves",
+        "basil leaves",
+        "jasmine rice",
+        "red chilli",
+        "dried red chillies",
+        "shrimp paste",
+        "garlic",
+        "galangal",
+        "lemongrass",
+        "lime",
+        "ground nutmeg",
+        "ground coriander",
+        "ground cumin",
+        "peanuts"
+      ]
+    },
+    {
+      "name": "Prawn stir-fry",
+      "category": "Seafood",
+      "image": "https://www.themealdb.com/images/media/meals/96lt871763480970.jpg",
+      "ingredients": [
+        "raw tiger prawns",
+        "green chilli",
+        "garlic",
+        "coriander",
+        "caster sugar",
+        "lime",
+        "fish sauce",
+        "ground nut oil",
+        "ginger",
+        "spring onions",
+        "red pepper",
+        "water chestnut",
+        "bean sprouts",
+        "soy sauce",
+        "rice noodles",
+        "lime"
+      ]
+    },
+    {
+      "name": "Red curry chicken kebabs",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/prjve31763486864.jpg",
+      "ingredients": [
+        "chicken breasts",
+        "thai red curry paste",
+        "coconut milk",
+        "red pepper",
+        "courgettes",
+        "red onions",
+        "lime"
+      ]
+    },
+    {
+      "name": "Spicy Thai prawn noodles",
+      "category": "Seafood",
+      "image": "https://www.themealdb.com/images/media/meals/568t931763584227.jpg",
+      "ingredients": [
+        "rice noodles",
+        "sesame seed oil",
+        "egg",
+        "red chilli",
+        "ginger",
+        "prawns",
+        "soy sauce",
+        "coriander",
+        "mint",
+        "lime",
+        "peanuts"
+      ]
+    },
+    {
+      "name": "Stir-fried chicken with chillies & basil",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/el64dy1763483009.jpg",
+      "ingredients": [
+        "vegetable oil",
+        "chicken",
+        "garlic",
+        "shallots",
+        "red chilli",
+        "fish sauce",
+        "soy sauce",
+        "sugar",
+        "basil leaves"
+      ]
+    },
+    {
+      "name": "Thai beef stir-fry",
+      "category": "Beef",
+      "image": "https://www.themealdb.com/images/media/meals/kyuxew1763479470.jpg",
+      "ingredients": [
+        "vegetable oil",
+        "beef",
+        "red chilli",
+        "oyster sauce",
+        "basil leaves"
+      ]
+    },
+    {
+      "name": "Thai chicken cakes with sweet chilli sauce",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/6s3i3p1763488540.jpg",
+      "ingredients": [
+        "chicken breast",
+        "garlic",
+        "ginger",
+        "onion",
+        "coriander",
+        "green chilli",
+        "olive oil",
+        "sweet chilli sauce",
+        "lime",
+        "spring onions",
+        "red chilli"
+      ]
+    },
+    {
+      "name": "Thai coconut & veg broth",
+      "category": "Vegetarian",
+      "image": "https://www.themealdb.com/images/media/meals/4k8nzy1763583384.jpg",
+      "ingredients": [
+        "thai red curry paste",
+        "vegetable oil",
+        "vegetable stock",
+        "coconut milk",
+        "brown sugar",
+        "egg noodles",
+        "carrots",
+        "chinese leaf",
+        "bean sprouts",
+        "cherry tomatoes",
+        "lime",
+        "spring onions",
+        "coriander"
+      ]
+    },
+    {
+      "name": "Thai curry noodle soup",
+      "category": "Seafood",
+      "image": "https://www.themealdb.com/images/media/meals/118oj61763423896.jpg",
+      "ingredients": [
+        "vegetable oil",
+        "thai green curry paste",
+        "stir-fry vegetables",
+        "raw king prawns",
+        "coconut milk",
+        "vegetable stock",
+        "udon noodles",
+        "coriander",
+        "basil",
+        "red chilli",
+        "spring onions"
+      ]
+    },
+    {
+      "name": "Thai drumsticks",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/ittake1763586925.jpg",
+      "ingredients": [
+        "sweet chilli sauce",
+        "orange",
+        "orange",
+        "garlic",
+        "thai red curry paste",
+        "chicken drumsticks"
+      ]
+    },
+    {
+      "name": "Thai fried rice with prawns & peas",
+      "category": "Seafood",
+      "image": "https://www.themealdb.com/images/media/meals/hblwvg1763478203.jpg",
+      "ingredients": [
+        "vegetable oil",
+        "red onions",
+        "garlic clove",
+        "red chilli",
+        "raw king prawns",
+        "brown rice",
+        "frozen peas",
+        "soy sauce",
+        "fish sauce",
+        "coriander",
+        "egg",
+        "hotsauce"
+      ]
+    }
+  ],
+  "American": [
+    {
+      "name": "15-minute chicken & halloumi burgers",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/vdwloy1713225718.jpg",
+      "ingredients": [
+        "chicken breasts",
+        "oil",
+        "hotsauce",
+        "lemon juice",
+        "buns",
+        "cheese",
+        "cabbage",
+        "mayonnaise",
+        "sour cream",
+        "lettuce",
+        "red pepper"
+      ]
+    },
+    {
+      "name": "Banana Pancakes",
+      "category": "Dessert",
+      "image": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
+      "ingredients": [
+        "banana",
+        "eggs",
+        "baking powder",
+        "vanilla extract",
+        "oil",
+        "pecan nuts",
+        "raspberries"
+      ]
+    },
+    {
+      "name": "BBQ Pork Sloppy Joes",
+      "category": "Pork",
+      "image": "https://www.themealdb.com/images/media/meals/atd5sh1583188467.jpg",
+      "ingredients": [
+        "potatoes",
+        "red onions",
+        "garlic",
+        "lime",
+        "bread",
+        "pork",
+        "barbeque sauce",
+        "hotsauce",
+        "tomato ketchup",
+        "sugar",
+        "vegetable oil",
+        "salt",
+        "pepper"
+      ]
+    },
+    {
+      "name": "Beef Brisket Pot Roast",
+      "category": "Beef",
+      "image": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg",
+      "ingredients": [
+        "beef brisket",
+        "salt",
+        "onion",
+        "garlic",
+        "thyme",
+        "rosemary",
+        "bay leaves",
+        "beef stock",
+        "carrots",
+        "mustard",
+        "potatoes"
+      ]
+    },
+    {
+      "name": "Big Mac",
+      "category": "Beef",
+      "image": "https://www.themealdb.com/images/media/meals/urzj1d1587670726.jpg",
+      "ingredients": [
+        "minced beef",
+        "olive oil",
+        "sesame seed burger buns",
+        "onion",
+        "iceberg lettuce",
+        "cheese",
+        "dill pickles",
+        "mayonnaise",
+        "white wine vinegar",
+        "pepper",
+        "mustard",
+        "onion salt",
+        "garlic powder",
+        "paprika"
+      ]
+    },
+    {
+      "name": "Chick-Fil-A Sandwich",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg",
+      "ingredients": [
+        "chicken breast",
+        "pickle juice",
+        "egg",
+        "milk",
+        "flour",
+        "icing sugar",
+        "paprika",
+        "salt",
+        "black pepper",
+        "garlic powder",
+        "celery salt",
+        "cayenne pepper",
+        "olive oil",
+        "sesame seed burger buns"
+      ]
+    },
+    {
+      "name": "Chicken Fajita Mac and Cheese",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg",
+      "ingredients": [
+        "macaroni",
+        "chicken stock",
+        "heavy cream",
+        "fajita seasoning",
+        "salt",
+        "chicken breast",
+        "olive oil",
+        "onion",
+        "red pepper",
+        "garlic",
+        "cheddar cheese",
+        "parsley"
+      ]
+    },
+    {
+      "name": "Choc Chip Pecan Pie",
+      "category": "Dessert",
+      "image": "https://www.themealdb.com/images/media/meals/rqvwxt1511384809.jpg",
+      "ingredients": [
+        "plain flour",
+        "butter",
+        "cream cheese",
+        "icing sugar",
+        "butter",
+        "maple syrup",
+        "light brown soft sugar",
+        "dark brown soft sugar",
+        "eggs",
+        "vanilla extract",
+        "pecan nuts",
+        "dark chocolate chips"
+      ]
+    },
+    {
+      "name": "Chocolate Raspberry Brownies",
+      "category": "Dessert",
+      "image": "https://www.themealdb.com/images/media/meals/yypvst1511386427.jpg",
+      "ingredients": [
+        "dark chocolate",
+        "milk chocolate",
+        "salted butter",
+        "light brown soft sugar",
+        "eggs",
+        "plain flour",
+        "cocoa",
+        "raspberries"
+      ]
+    },
+    {
+      "name": "Clam chowder",
+      "category": "Starter",
+      "image": "https://www.themealdb.com/images/media/meals/rvtvuw1511190488.jpg",
+      "ingredients": [
+        "clams",
+        "butter",
+        "bacon",
+        "onion",
+        "thyme",
+        "bay leaf",
+        "plain flour",
+        "milk",
+        "double cream",
+        "potatoes",
+        "parsley"
+      ]
+    },
+    {
+      "name": "Cream Cheese Tart",
+      "category": "Starter",
+      "image": "https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg",
+      "ingredients": [
+        "flour",
+        "butter",
+        "egg",
+        "salt",
+        "cheese",
+        "milk",
+        "eggs",
+        "parmesan cheese",
+        "plum tomatoes",
+        "white vinegar",
+        "honey",
+        "basil"
+      ]
+    },
+    {
+      "name": "French Onion Chicken with Roasted Carrots & Mashed Potatoes",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/b5ft861583188991.jpg",
+      "ingredients": [
+        "chicken breasts",
+        "carrots",
+        "potatoes",
+        "onion",
+        "beef stock",
+        "mozzarella",
+        "sour cream",
+        "butter",
+        "sugar",
+        "vegetable oil",
+        "salt",
+        "pepper"
+      ]
+    },
+    {
+      "name": "Fruit and Cream Cheese Breakfast Pastries",
+      "category": "Breakfast",
+      "image": "https://www.themealdb.com/images/media/meals/1543774956.jpg",
+      "ingredients": [
+        "cream cheese",
+        "sugar",
+        "vanilla extract",
+        "flour",
+        "puff pastry",
+        "strawberries",
+        "raspberries",
+        "blackberries"
+      ]
+    },
+    {
+      "name": "Grilled Mac and Cheese Sandwich",
+      "category": "Pasta",
+      "image": "https://www.themealdb.com/images/media/meals/xutquv1505330523.jpg",
+      "ingredients": [
+        "macaroni",
+        "plain flour",
+        "mustard powder",
+        "garlic powder",
+        "kosher salt",
+        "black pepper",
+        "cayenne pepper",
+        "butter",
+        "whole milk",
+        "heavy cream",
+        "monterey jack cheese",
+        "butter",
+        "garlic powder",
+        "bread",
+        "cheddar cheese",
+        "colby jack cheese",
+        "butter"
+      ]
+    },
+    {
+      "name": "Honey Balsamic Chicken with Crispy Broccoli & Potatoes",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/kvbotn1581012881.jpg",
+      "ingredients": [
+        "potatoes",
+        "broccoli",
+        "garlic",
+        "chicken breast",
+        "balsamic vinegar",
+        "honey",
+        "chicken stock",
+        "butter",
+        "vegetable oil",
+        "olive oil"
+      ]
+    },
+    {
+      "name": "Hot Chocolate Fudge",
+      "category": "Dessert",
+      "image": "https://www.themealdb.com/images/media/meals/xrysxr1483568462.jpg",
+      "ingredients": [
+        "chocolate chips",
+        "heavy cream",
+        "condensed milk",
+        "vanilla extract",
+        "white chocolate chips",
+        "miniature marshmallows"
+      ]
+    }
+  ],
+  "Turkish": [
+    {
+      "name": "Adana kebab",
+      "category": "Lamb",
+      "image": "https://www.themealdb.com/images/media/meals/04axct1763793018.jpg",
+      "ingredients": [
+        "romano pepper",
+        "lamb mince",
+        "red pepper paste",
+        "pul biber",
+        "sunflower oil"
+      ]
+    },
+    {
+      "name": "Apricot & Turkish delight mess",
+      "category": "Dessert",
+      "image": "https://www.themealdb.com/images/media/meals/p277uc1764109195.jpg",
+      "ingredients": [
+        "mascarpone",
+        "greek yogurt",
+        "icing sugar",
+        "orange blossom water",
+        "meringue nests",
+        "apricot",
+        "turkish delight",
+        "almonds",
+        "mint"
+      ]
+    },
+    {
+      "name": "Aubergine & hummus grills",
+      "category": "Vegetarian",
+      "image": "https://www.themealdb.com/images/media/meals/zub3s91764110535.jpg",
+      "ingredients": [
+        "aubergine",
+        "vegetable oil",
+        "bread",
+        "hummus",
+        "walnuts",
+        "parsley",
+        "cherry tomatoes",
+        "lemon",
+        "extra virgin olive oil"
+      ]
+    },
+    {
+      "name": "Aubergine couscous salad",
+      "category": "Vegetarian",
+      "image": "https://www.themealdb.com/images/media/meals/02s6gc1763799560.jpg",
+      "ingredients": [
+        "aubergine",
+        "olive oil",
+        "couscous",
+        "vegetable stock",
+        "cherry tomatoes",
+        "mint",
+        "goats cheese",
+        "lemon"
+      ]
+    },
+    {
+      "name": "Baklava with spiced nuts, ricotta & chocolate",
+      "category": "Dessert",
+      "image": "https://www.themealdb.com/images/media/meals/ytme8t1764111401.jpg",
+      "ingredients": [
+        "sugar",
+        "lemon juice",
+        "walnuts",
+        "pecan nuts",
+        "almonds",
+        "ground cinnamon",
+        "ground cardomom",
+        "ricotta",
+        "lemon",
+        "orange",
+        "vanilla bean paste",
+        "unsalted butter",
+        "filo pastry",
+        "ground pistachios"
+      ]
+    },
+    {
+      "name": "Cacik",
+      "category": "Side",
+      "image": "https://www.themealdb.com/images/media/meals/16zbeu1763789342.jpg",
+      "ingredients": [
+        "natural yoghurt",
+        "lemon juice",
+        "extra virgin olive oil",
+        "dried mint",
+        "cucumber",
+        "garlic"
+      ]
+    },
+    {
+      "name": "Chicken wings with cumin, lemon & garlic",
+      "category": "Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/4hzyvq1763792564.jpg",
+      "ingredients": [
+        "chicken wings",
+        "garlic",
+        "lemon",
+        "cumin seeds",
+        "olive oil",
+        "honey"
+      ]
+    },
+    {
+      "name": "Chilli ginger lamb chops",
+      "category": "Lamb",
+      "image": "https://www.themealdb.com/images/media/meals/8xuvhj1763794991.jpg",
+      "ingredients": [
+        "garlic",
+        "ginger",
+        "lemon juice",
+        "olive oil",
+        "chili powder",
+        "cumin",
+        "lamb loin chops"
+      ]
+    },
+    {
+      "name": "Corba",
+      "category": "Side",
+      "image": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg",
+      "ingredients": [
+        "lentils",
+        "onion",
+        "carrots",
+        "tomato puree",
+        "cumin",
+        "paprika",
+        "mint",
+        "thyme",
+        "black pepper",
+        "red pepper flakes",
+        "vegetable stock",
+        "water",
+        "sea salt"
+      ]
+    },
+    {
+      "name": "Ezme",
+      "category": "Vegetarian",
+      "image": "https://www.themealdb.com/images/media/meals/pb6mj11763788331.jpg",
+      "ingredients": [
+        "tomato",
+        "romano pepper",
+        "green chilli",
+        "onion",
+        "garlic",
+        "parsley",
+        "red pepper paste",
+        "tomato puree",
+        "pomegranate molasses",
+        "pul biber",
+        "sumac",
+        "dried mint",
+        "extra virgin olive oil"
+      ]
+    },
+    {
+      "name": "Falafel",
+      "category": "Vegetarian",
+      "image": "https://www.themealdb.com/images/media/meals/u5e9qq1763795441.jpg",
+      "ingredients": [
+        "sunflower oil",
+        "onion",
+        "garlic",
+        "chickpeas",
+        "ground cumin",
+        "ground coriander",
+        "parsley",
+        "egg"
+      ]
+    },
+    {
+      "name": "Griddled aubergines with sesame dressing",
+      "category": "Vegetarian",
+      "image": "https://www.themealdb.com/images/media/meals/yoj48r1763817100.jpg",
+      "ingredients": [
+        "aubergine",
+        "olive oil",
+        "greek yogurt",
+        "tahini paste",
+        "garlic",
+        "lemon",
+        "coriander",
+        "parsley",
+        "mint"
+      ]
+    },
+    {
+      "name": "Griddled flatbreads",
+      "category": "Side",
+      "image": "https://www.themealdb.com/images/media/meals/8825lo1763815264.jpg",
+      "ingredients": [
+        "strong wholemeal flour",
+        "strong white bread flour",
+        "yeast",
+        "sugar",
+        "olive oil"
+      ]
+    },
+    {
+      "name": "Grilled aubergines with spicy chickpeas & walnut sauce",
+      "category": "Vegetarian",
+      "image": "https://www.themealdb.com/images/media/meals/ctw3ba1763788978.jpg",
+      "ingredients": [
+        "olive oil",
+        "onion",
+        "red chilli",
+        "ginger",
+        "ground cumin",
+        "chickpeas",
+        "tomato",
+        "lemon",
+        "aubergine",
+        "greek yogurt",
+        "garlic clove",
+        "walnuts",
+        "coriander"
+      ]
+    },
+    {
+      "name": "Hot cumin lamb wrap with crunchy slaw & spicy mayo",
+      "category": "Lamb",
+      "image": "https://www.themealdb.com/images/media/meals/jyylmo1763790808.jpg",
+      "ingredients": [
+        "lamb leg",
+        "olive oil",
+        "ground cumin",
+        "sugar",
+        "white wine vinegar",
+        "carrots",
+        "spring onions",
+        "white cabbage",
+        "sweet peppadew peppers",
+        "mayonnaise",
+        "pita bread"
+      ]
+    },
+    {
+      "name": "Hummus",
+      "category": "Side",
+      "image": "https://www.themealdb.com/images/media/meals/gpon5u1763801180.jpg",
+      "ingredients": [
+        "chickpeas",
+        "tahini paste",
+        "garlic clove",
+        "greek yogurt",
+        "lemon"
+      ]
+    }
+  ],
+  "Vietnamese": [
+    {
+      "name": "Bang bang prawn salad",
+      "category": "Seafood",
+      "image": "https://www.themealdb.com/images/media/meals/4xcfai1763765676.jpg",
+      "ingredients": [
+        "rice noodles",
+        "peanut butter",
+        "coconut milk",
+        "sweet chilli sauce",
+        "spring onions",
+        "cucumber",
+        "bean sprouts",
+        "prawns"
+      ]
+    },
+    {
+      "name": "Barbecue pork buns",
+      "category": "Pork",
+      "image": "https://www.themealdb.com/images/media/meals/tzsy461763769901.jpg",
+      "ingredients": [
+        "sugar",
+        "white bread mix",
+        "sunflower oil",
+        "bacon",
+        "ginger",
+        "garlic",
+        "soy sauce",
+        "clear honey",
+        "tomato puree",
+        "egg"
+      ]
+    },
+    {
+      "name": "Beef Banh Mi Bowls with Sriracha Mayo, Carrot & Pickled Cucumber",
+      "category": "Beef",
+      "image": "https://www.themealdb.com/images/media/meals/z0ageb1583189517.jpg",
+      "ingredients": [
+        "rice",
+        "onion",
+        "lime",
+        "garlic clove",
+        "cucumber",
+        "carrots",
+        "ground beef",
+        "soy sauce"
+      ]
+    },
+    {
+      "name": "Beef pho",
+      "category": "Beef",
+      "image": "https://www.themealdb.com/images/media/meals/pbzcrx1763765096.jpg",
+      "ingredients": [
+        "beef stock",
+        "onion",
+        "ginger",
+        "cinnamon stick",
+        "star anise",
+        "coriander seeds",
+        "cloves",
+        "sirloin steak",
+        "palm sugar",
+        "fish sauce",
+        "soy sauce",
+        "rice noodles",
+        "spring onions",
+        "birds-eye chillies",
+        "basil",
+        "coriander",
+        "lime"
+      ]
+    },
+    {
+      "name": "Noodle bowl salad",
+      "category": "Seafood",
+      "image": "https://www.themealdb.com/images/media/meals/zry07j1763779321.jpg",
+      "ingredients": [
+        "rice noodles",
+        "sugar snap peas",
+        "sesame seed oil",
+        "spring onions",
+        "coriander",
+        "hot smoked flaked salmon",
+        "pretzels",
+        "soy sauce",
+        "clear honey",
+        "lemon juice",
+        "ground nut oil",
+        "garlic",
+        "ginger"
+      ]
+    },
+    {
+      "name": "Prawn & noodle salad with crispy shallots",
+      "category": "Seafood",
+      "image": "https://www.themealdb.com/images/media/meals/0iryz91763778419.jpg",
+      "ingredients": [
+        "rice noodles",
+        "prawns",
+        "red onions",
+        "red chilli",
+        "cucumber",
+        "coriander",
+        "mint",
+        "roasted peanut",
+        "lime",
+        "brown sugar",
+        "fish sauce",
+        "garlic",
+        "shallots",
+        "vegetable oil",
+        "flour"
+      ]
+    },
+    {
+      "name": "Purple sprouting broccoli tempura with nuoc cham",
+      "category": "Miscellaneous",
+      "image": "https://www.themealdb.com/images/media/meals/xnv4wf1763756529.jpg",
+      "ingredients": [
+        "corn flour",
+        "plain flour",
+        "sesame seed",
+        "vegetable oil",
+        "soda water",
+        "purple sprouting broccoli",
+        "fish sauce",
+        "lime",
+        "birds-eye chillies",
+        "sugar"
+      ]
+    },
+    {
+      "name": "Rice paper dumplings",
+      "category": "Pork",
+      "image": "https://www.themealdb.com/images/media/meals/sfahy01763752319.jpg",
+      "ingredients": [
+        "white cabbage",
+        "carrots",
+        "shiitake mushrooms",
+        "ground pork",
+        "garlic",
+        "ginger",
+        "soy sauce",
+        "sesame seed oil",
+        "spring onions",
+        "rice paper sheets",
+        "vegetable oil",
+        "soy sauce",
+        "rice vinegar",
+        "sesame seed",
+        "spring onions"
+      ]
+    },
+    {
+      "name": "Salmon noodle soup",
+      "category": "Seafood",
+      "image": "https://www.themealdb.com/images/media/meals/ikizdm1763760862.jpg",
+      "ingredients": [
+        "chicken stock",
+        "thai red curry paste",
+        "rice noodles",
+        "shiitake mushrooms",
+        "sweetcorn",
+        "salmon",
+        "lime",
+        "soy sauce",
+        "brown sugar",
+        "coriander"
+      ]
+    },
+    {
+      "name": "Salmon noodle wraps",
+      "category": "Seafood",
+      "image": "https://www.themealdb.com/images/media/meals/prrirc1763781360.jpg",
+      "ingredients": [
+        "rice noodles",
+        "spring onions",
+        "petit pois",
+        "chilli",
+        "coriander",
+        "lime",
+        "salmon"
+      ]
+    },
+    {
+      "name": "Salt & pepper squid",
+      "category": "Seafood",
+      "image": "https://www.themealdb.com/images/media/meals/yxiilf1763759428.jpg",
+      "ingredients": [
+        "corn flour",
+        "plain flour",
+        "black pepper",
+        "szechuan peppercorns",
+        "sunflower oil",
+        "squid",
+        "spring onions",
+        "green chilli",
+        "red chilli",
+        "cucumber",
+        "red onions",
+        "rice vinegar",
+        "caster sugar",
+        "fish sauce"
+      ]
+    },
+    {
+      "name": "Sea bass with sizzled ginger, chilli & spring onions",
+      "category": "Seafood",
+      "image": "https://www.themealdb.com/images/media/meals/tqd7s21763780609.jpg",
+      "ingredients": [
+        "sea bass fillets",
+        "sunflower oil",
+        "ginger",
+        "garlic clove",
+        "red chilli",
+        "spring onions",
+        "soy sauce"
+      ]
+    },
+    {
+      "name": "Steak & Vietnamese noodle salad",
+      "category": "Beef",
+      "image": "https://www.themealdb.com/images/media/meals/st9shl1763755808.jpg",
+      "ingredients": [
+        "brown rice noodle",
+        "rapeseed oil",
+        "fillet of steak",
+        "carrots",
+        "chinese cabbage",
+        "spring onions",
+        "coriander",
+        "red chilli",
+        "lime",
+        "brown sugar",
+        "rice vinegar",
+        "garlic clove",
+        "fish sauce"
+      ]
+    },
+    {
+      "name": "Tangy carrot, cabbage & onion salad",
+      "category": "Vegetarian",
+      "image": "https://www.themealdb.com/images/media/meals/dbazbg1763779999.jpg",
+      "ingredients": [
+        "carrots",
+        "red cabbage",
+        "red onions",
+        "mint",
+        "coriander leaves",
+        "roasted peanut",
+        "lime",
+        "ground nut oil",
+        "red chilli",
+        "brown sugar"
+      ]
+    },
+    {
+      "name": "Tofu, greens & cashew stir-fry",
+      "category": "Vegetarian",
+      "image": "https://www.themealdb.com/images/media/meals/minfsc1763766806.jpg",
+      "ingredients": [
+        "vegetable oil",
+        "broccoli",
+        "garlic clove",
+        "red chilli",
+        "spring onions",
+        "soya bean",
+        "pak choi",
+        "marinated tofu",
+        "hoisin sauce",
+        "soy sauce",
+        "cashew nuts"
+      ]
+    },
+    {
+      "name": "Turkey Bánh mì",
+      "category": "Miscellaneous",
+      "image": "https://www.themealdb.com/images/media/meals/1wj8w31763781990.jpg",
+      "ingredients": [
+        "baguette",
+        "chicken liver",
+        "cucumber",
+        "turkey",
+        "mayonnaise",
+        "red chilli",
+        "mint",
+        "carrots",
+        "red cabbage",
+        "ground ginger",
+        "rice vinegar",
+        "golden caster sugar"
+      ]
+    }
+  ]
+}
