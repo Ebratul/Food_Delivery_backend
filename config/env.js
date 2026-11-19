@@ -11,7 +11,8 @@ const schema = z.object({
   CLIENT_URLS: z.string().default("http://localhost:5173"),
 });
 
-const parsed = schema.safeParse(process.env);
+// On Vercel + Prisma Postgres a pooled connection string is provided; prefer it at runtime.
+const parsed = schema.safeParse({ ...process.env, DATABASE_URL: process.env.DATABASE_URL_POOLED || process.env.DATABASE_URL });
 if (!parsed.success) {
   const issues = parsed.error.issues.map((i) => `${i.path.join(".")}: ${i.message}`).join("; ");
   throw new Error(`Invalid environment configuration: ${issues}`);
